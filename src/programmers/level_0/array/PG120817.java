@@ -1,5 +1,8 @@
 package programmers.level_0.array;
 
+/**
+ * 배열의 평균값
+ */
 public class PG120817 {
     public double solution(int[] numbers) {
         double answer = 0;
