@@ -1,4 +1,4 @@
-package programmers.level_0;
+package programmers.level_0.compare;
 
 /**
  * 숫자 비교하기
