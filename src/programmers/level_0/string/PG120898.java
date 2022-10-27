@@ -1,4 +1,4 @@
-package programmers.level_0;
+package programmers.level_0.string;
 
 /**
  * 편지
