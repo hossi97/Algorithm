@@ -1,4 +1,4 @@
-package programmers.level_0.calculate;
+package programmers.level_0.math;
 
 /**
  * 두 수의 곱

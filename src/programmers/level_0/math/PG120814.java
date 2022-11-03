@@ -1,4 +1,4 @@
-package programmers.level_0.calculate;
+package programmers.level_0.math;
 
 /**
  * 피자 나눠 먹기

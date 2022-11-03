@@ -1,4 +1,4 @@
-package programmers.level_0;
+package programmers.level_0.math;
 
 /**
  * 제곱수 판별하기
